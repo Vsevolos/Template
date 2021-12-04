@@ -1,0 +1,42 @@
+.CV{
+    color: rgb(90, 160, 165);
+}
+.article{
+    width: 100%;
+    text-align: center;
+}
+.span{
+    font-weight: 600;
+}
+.text{
+
+}
+tr{
+    width: 1800px;
+    display: flex;
+    justify-content: space-between;
+}
+table{
+    width: 100%;
+}
+td{
+    text-align: center;
+    -webkit-box-shadow: 2px 6px 11px 22px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 2px 6px 11px 22px rgba(34, 60, 80, 0.2);
+    box-shadow: 2px 6px 11px 22px rgba(34, 60, 80, 0.2);
+}
+.left-block{
+    width: 700px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+.right-block{
+    width: 900px;
+    text-align: start;
+}
+a{
+    text-decoration: none;
+}
+h1{
+    font-family: Montserrat;
+}
